@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>testUser1Password</key>
+	<string>qwe123</string>
+	<key>testUser1Login</key>
+	<string>10001</string>
+	<key>api</key>
+	<string>https://as-dev.easy-technologies.com</string>
+	<key>signalRBaseURL</key>
+	<string>https://as-dev.easy-technologies.com/tradingHub</string>
+</dict>
+</plist>

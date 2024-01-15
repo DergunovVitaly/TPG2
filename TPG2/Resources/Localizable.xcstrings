@@ -1,0 +1,221 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "-$1,212.13" : {
+
+    },
+    "!" : {
+
+    },
+    "%100'000" : {
+
+    },
+    "$1.118,820.71" : {
+
+    },
+    "$12.10" : {
+
+    },
+    "$100,968.03" : {
+
+    },
+    "$116,368.38" : {
+
+    },
+    "$251,102.01" : {
+
+    },
+    "1:100" : {
+
+    },
+    "20" : {
+
+    },
+    "101653" : {
+
+    },
+    "AddOrderView" : {
+
+    },
+    "BALANCE:" : {
+
+    },
+    "BONUS:" : {
+
+    },
+    "CREDIT:" : {
+
+    },
+    "Currency:" : {
+
+    },
+    "DEPOSIT" : {
+
+    },
+    "dontHaveAccount" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don’t have an account? Register"
+          }
+        }
+      }
+    },
+    "enterLogin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter your login"
+          }
+        }
+      }
+    },
+    "enterPassword" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter your password"
+          }
+        }
+      }
+    },
+    "EQUITY:" : {
+
+    },
+    "Error" : {
+
+    },
+    "forgotPassword" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forgot password?"
+          }
+        }
+      }
+    },
+    "FREE:" : {
+
+    },
+    "ID:" : {
+
+    },
+    "Leverage:" : {
+
+    },
+    "login" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Login"
+          }
+        }
+      }
+    },
+    "Logout" : {
+
+    },
+    "More view" : {
+
+    },
+    "Ok" : {
+
+    },
+    "OPEN PL:" : {
+
+    },
+    "OrdersScreen" : {
+
+    },
+    "OrdersView" : {
+
+    },
+    "password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "PROFIT/LOSSES:" : {
+
+    },
+    "Real Account" : {
+
+    },
+    "rememberMe" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remember me"
+          }
+        }
+      }
+    },
+    "signIn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign In"
+          }
+        }
+      }
+    },
+    "signInIntoAccount" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign in into your account"
+          }
+        }
+      }
+    },
+    "Stop out:" : {
+
+    },
+    "Symbol Groups" : {
+
+    },
+    "This Dollars vs US Dollars " : {
+
+    },
+    "Trading Information" : {
+
+    },
+    "USD" : {
+
+    },
+    "welcome" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👋 Welcome"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
